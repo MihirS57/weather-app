@@ -1,0 +1,4 @@
+proxy-weather-app/node_modules
+weather-app/node_modules
+weather-app/.env
+proxy-weather-app/config/config.env
